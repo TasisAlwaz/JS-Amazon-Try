@@ -42,6 +42,7 @@ const products = [{
 }];
 */
 
+import {cart} from '../data/cart';
 
 let productsHTML = '';
 
